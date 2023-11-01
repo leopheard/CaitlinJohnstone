@@ -8,4 +8,4 @@ The political podcast for clear-eyed rebels and utopia preppers.<br>
 
 <b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the Code > '<a href="https://github.com/leopheard/CaitlinJohnstone/archive/refs/heads/master.zip">Download Zip</a>' button (on this page above) to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file. A repository to auto-update or install from is being worked on.<br>
 
-<br><a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true" width="150" height="150" alt="Kodi.tv">>
+<br><a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true" width="765" height="460" alt="Kodi.tv">>
