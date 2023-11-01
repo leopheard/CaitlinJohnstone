@@ -1,6 +1,6 @@
 A <a href="www.kodi.tv">KODI</a> (XBMC/Firestick) audio addon for the <a href="http://caitlinjohnstone.com">Going Rogue with Caitlin Johnstone podcast</a>.<br>
 
-<a href="https://www.caitlinjohnstone.com/"><img src="https://github.com/leopheard/CaitlinJohnstone/blob/master/resources/media/1.jpg?raw=true" width="80" height="80" alt="Caitlin Johnstone"><br>
+<a href="https://www.caitlinjohnstone.com/"><img src="https://github.com/leopheard/CaitlinJohnstone/blob/master/resources/media/1.jpg?raw=true" width="100" height="100" alt="Caitlin Johnstone"><br>
 
 The political podcast for clear-eyed rebels and utopia preppers.<br>
 
